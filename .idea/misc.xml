@@ -5,7 +5,15 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/homeWork/pom.xml" />
+        <option value="$PROJECT_DIR$/homeWork3/pom.xml" />
+        <option value="$PROJECT_DIR$/testProgram/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson3/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/homeWork3/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17_PREVIEW" project-jdk-name="openjdk-21" project-jdk-type="JavaSDK">

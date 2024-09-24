@@ -14,6 +14,7 @@
     <mapping directory="$PROJECT_DIR$/../Git" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../Git 2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../Python/DZ.8/python_homework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../самоподготовка - решение задач/C#/camopogotovka" vcs="Git" />
   </component>
 </project>
