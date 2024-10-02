@@ -19,6 +19,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="homeWork3" options="-parameters" />
       <module name="lesson3" options="-parameters" />
+      <module name="lesson4" options="-parameters" />
       <module name="testProgram" options="-parameters" />
     </option>
   </component>

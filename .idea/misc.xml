@@ -8,11 +8,13 @@
         <option value="$PROJECT_DIR$/homeWork3/pom.xml" />
         <option value="$PROJECT_DIR$/testProgram/pom.xml" />
         <option value="$PROJECT_DIR$/lesson3/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson4/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/homeWork3/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson4/pom.xml" />
       </set>
     </option>
   </component>
