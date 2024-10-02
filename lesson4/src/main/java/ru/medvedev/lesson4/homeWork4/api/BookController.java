@@ -4,8 +4,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import ru.medvedev.lesson3.homeWork3.model.Book;
-import ru.medvedev.lesson3.homeWork3.service.BookService;
+import ru.medvedev.lesson4.homeWork4.model.Book;
+import ru.medvedev.lesson4.homeWork4.service.BookService;
 
 import java.util.List;
 

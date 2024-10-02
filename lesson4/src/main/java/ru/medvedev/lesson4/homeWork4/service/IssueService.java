@@ -2,10 +2,10 @@ package ru.medvedev.lesson4.homeWork4.service;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
-import ru.medvedev.lesson3.homeWork3.api.IssueRequest;
-import ru.medvedev.lesson3.homeWork3.model.Issue;
-import ru.medvedev.lesson3.homeWork3.repository.IssueRepository;
-import ru.medvedev.lesson3.homeWork3.service.ReaderService;
+import ru.medvedev.lesson4.homeWork4.api.IssueRequest;
+import ru.medvedev.lesson4.homeWork4.model.Issue;
+import ru.medvedev.lesson4.homeWork4.repository.IssueRepository;
+import ru.medvedev.lesson4.homeWork4.service.ReaderService;
 
 import java.util.List;
 import java.util.NoSuchElementException;

@@ -4,8 +4,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import ru.medvedev.lesson3.homeWork3.model.Issue;
-import ru.medvedev.lesson3.homeWork3.service.IssueService;
+import ru.medvedev.lesson4.homeWork4.model.Issue;
+import ru.medvedev.lesson4.homeWork4.service.IssueService;
 
 import java.util.List;
 import java.util.NoSuchElementException;

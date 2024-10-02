@@ -2,7 +2,7 @@ package ru.medvedev.lesson4.homeWork4.repository;
 
 import jakarta.annotation.PostConstruct;
 import org.springframework.stereotype.Repository;
-import ru.medvedev.lesson3.homeWork3.model.Book;
+import ru.medvedev.lesson4.homeWork4.model.Book;
 
 import java.util.ArrayList;
 import java.util.List;

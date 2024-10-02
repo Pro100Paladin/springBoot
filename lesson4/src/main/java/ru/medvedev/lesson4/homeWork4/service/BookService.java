@@ -1,8 +1,8 @@
 package ru.medvedev.lesson4.homeWork4.service;
 
 import org.springframework.stereotype.Service;
-import ru.medvedev.lesson3.homeWork3.model.Book;
-import ru.medvedev.lesson3.homeWork3.repository.BookRepository;
+import ru.medvedev.lesson4.homeWork4.model.Book;
+import ru.medvedev.lesson4.homeWork4.repository.BookRepository;
 
 import java.util.List;
 
