@@ -10,7 +10,7 @@ import ru.medvedev.lesson4.homeWork4.service.IssueService;
 import ru.medvedev.lesson4.homeWork4.service.ReaderService;
 
 @Controller
-@RequestMapping("/ui")
+@RequestMapping("/home")
 public class UIController {
 
     private final BookService bookService;
@@ -29,7 +29,7 @@ public class UIController {
         return "books";
     }
 
-    @GetMapping("/reader")
+    @GetMapping("/readers")
     public String getAllReaders(Model model) {
         model.addAttribute("readers", readerService.getAllReaders());
         return "readers";
