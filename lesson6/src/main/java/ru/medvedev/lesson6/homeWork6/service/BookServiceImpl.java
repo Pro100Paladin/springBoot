@@ -3,8 +3,8 @@ package ru.medvedev.lesson6.homeWork6.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import ru.geekbrains.hometask6.entity.BookEntity;
-import ru.geekbrains.hometask6.repository.BookRepository;
+import ru.medvedev.lesson6.homeWork6.entity.BookEntity;
+import ru.medvedev.lesson6.homeWork6.repository.BookRepository;
 
 import java.util.List;
 import java.util.Optional;

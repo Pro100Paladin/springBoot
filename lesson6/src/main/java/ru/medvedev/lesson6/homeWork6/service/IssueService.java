@@ -1,7 +1,7 @@
 package ru.medvedev.lesson6.homeWork6.service;
 
-import ru.geekbrains.hometask6.controller.IssueRequest;
-import ru.geekbrains.hometask6.entity.IssueEntity;
+import ru.medvedev.lesson6.homeWork6.controller.IssueRequest;
+import ru.medvedev.lesson6.homeWork6.entity.IssueEntity;
 
 import java.util.List;
 import java.util.Optional;

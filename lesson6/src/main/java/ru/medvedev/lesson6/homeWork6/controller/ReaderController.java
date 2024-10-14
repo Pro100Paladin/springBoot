@@ -9,10 +9,10 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import ru.geekbrains.hometask6.entity.IssueEntity;
-import ru.geekbrains.hometask6.entity.ReaderEntity;
-import ru.geekbrains.hometask6.service.IssueService;
-import ru.geekbrains.hometask6.service.ReaderService;
+import ru.medvedev.lesson6.homeWork6.entity.IssueEntity;
+import ru.medvedev.lesson6.homeWork6.entity.ReaderEntity;
+import ru.medvedev.lesson6.homeWork6.service.IssueService;
+import ru.medvedev.lesson6.homeWork6.service.ReaderService;
 
 import java.util.List;
 import java.util.Optional;

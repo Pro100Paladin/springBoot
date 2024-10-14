@@ -1,6 +1,6 @@
 package ru.medvedev.lesson6.homeWork6.service;
 
-import ru.geekbrains.hometask6.entity.BookEntity;
+import ru.medvedev.lesson6.homeWork6.entity.BookEntity;
 
 import java.util.List;
 import java.util.Optional;

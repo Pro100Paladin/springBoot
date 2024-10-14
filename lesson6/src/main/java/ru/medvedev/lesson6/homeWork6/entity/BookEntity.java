@@ -2,6 +2,7 @@ package ru.medvedev.lesson6.homeWork6.entity;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
 import io.swagger.v3.oas.annotations.media.Schema;
+import jakarta.persistence.*;
 
 @Entity
 @Table(name="books")

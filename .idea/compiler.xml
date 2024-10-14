@@ -9,6 +9,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="lesson4" />
         <module name="lesson5" />
+        <module name="lesson6" />
+        <module name="lesson7" />
         <module name="lesson3" />
       </profile>
     </annotationProcessing>
@@ -22,6 +24,8 @@
       <module name="lesson3" options="-parameters" />
       <module name="lesson4" options="-parameters" />
       <module name="lesson5" options="-parameters" />
+      <module name="lesson6" options="-parameters" />
+      <module name="lesson7" options="-parameters" />
       <module name="testProgram" options="-parameters" />
     </option>
   </component>

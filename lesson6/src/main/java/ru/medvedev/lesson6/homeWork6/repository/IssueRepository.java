@@ -2,7 +2,7 @@ package ru.medvedev.lesson6.homeWork6.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
-import ru.geekbrains.hometask6.entity.IssueEntity;
+import ru.medvedev.lesson6.homeWork6.entity.IssueEntity;
 
 import java.util.List;
 

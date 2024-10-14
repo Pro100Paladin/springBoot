@@ -2,8 +2,8 @@ package ru.medvedev.lesson6.homeWork6.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import ru.geekbrains.hometask6.entity.ReaderEntity;
-import ru.geekbrains.hometask6.repository.ReaderRepository;
+import ru.medvedev.lesson6.homeWork6.entity.ReaderEntity;
+import ru.medvedev.lesson6.homeWork6.repository.ReaderRepository;
 
 import java.util.List;
 import java.util.Optional;

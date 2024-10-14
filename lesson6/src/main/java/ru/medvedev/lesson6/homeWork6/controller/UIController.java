@@ -7,9 +7,9 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
-import ru.geekbrains.hometask6.service.BookService;
-import ru.geekbrains.hometask6.service.IssueService;
-import ru.geekbrains.hometask6.service.ReaderService;
+import ru.medvedev.lesson6.homeWork6.service.BookService;
+import ru.medvedev.lesson6.homeWork6.service.IssueService;
+import ru.medvedev.lesson6.homeWork6.service.ReaderService;
 
 @Controller
 @RequestMapping("/ui")

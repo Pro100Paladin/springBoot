@@ -2,10 +2,10 @@ package ru.medvedev.lesson6.homeWork6.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import ru.geekbrains.hometask6.ReaderProperties;
-import ru.geekbrains.hometask6.controller.IssueRequest;
-import ru.geekbrains.hometask6.entity.IssueEntity;
-import ru.geekbrains.hometask6.repository.IssueRepository;
+import ru.medvedev.lesson6.homeWork6.ReaderProperties;
+import ru.medvedev.lesson6.homeWork6.controller.IssueRequest;
+import ru.medvedev.lesson6.homeWork6.entity.IssueEntity;
+import ru.medvedev.lesson6.homeWork6.repository.IssueRepository;
 
 import java.time.LocalDateTime;
 import java.util.List;
