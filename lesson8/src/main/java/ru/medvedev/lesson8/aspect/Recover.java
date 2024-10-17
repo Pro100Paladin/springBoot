@@ -1,12 +1,11 @@
-package ru.medvedev.lesson8.hanoi;
+package ru.medvedev.lesson8.aspect;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
-@Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)
-public @interface RecoverException {
-    Class<? extends RuntimeException> [] noRecoverFor() default {};
+@Target(ElementType.METHOD)
+public @interface Recover { //восстанавливать
 }
