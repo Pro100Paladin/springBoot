@@ -11,6 +11,7 @@
         <module name="lesson5" />
         <module name="lesson6" />
         <module name="lesson7" />
+        <module name="lesson8" />
         <module name="lesson3" />
       </profile>
     </annotationProcessing>
@@ -26,6 +27,7 @@
       <module name="lesson5" options="-parameters" />
       <module name="lesson6" options="-parameters" />
       <module name="lesson7" options="-parameters" />
+      <module name="lesson8" options="-parameters" />
       <module name="testProgram" options="-parameters" />
     </option>
   </component>
