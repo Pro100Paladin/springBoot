@@ -7,20 +7,31 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="timesheet-page (1) (org.springframework.boot)" />
+        <module name="lesson8" />
         <module name="lesson4" />
         <module name="lesson5" />
         <module name="lesson6" />
         <module name="lesson7" />
-        <module name="lesson8" />
+        <module name="timesheet-rest" />
+        <module name="eureka-server" />
         <module name="lesson3" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="demo" target="17" />
+      <module name="eureka-server (1)" target="17" />
       <module name="homeWork3" target="21" />
+      <module name="lesson9" target="1.5" />
+      <module name="timesheet-page" target="17" />
+      <module name="timesheet-rest (1)" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="eureka-server (1)" options="-parameters" />
       <module name="homeWork3" options="-parameters" />
       <module name="lesson3" options="-parameters" />
       <module name="lesson4" options="-parameters" />
@@ -28,7 +39,12 @@
       <module name="lesson6" options="-parameters" />
       <module name="lesson7" options="-parameters" />
       <module name="lesson8" options="-parameters" />
+      <module name="lesson9" options="" />
       <module name="testProgram" options="-parameters" />
+      <module name="timesheet-page" options="-parameters" />
+      <module name="timesheet-page (1) (org.springframework.boot)" options="-parameters" />
+      <module name="timesheet-rest" options="-parameters" />
+      <module name="timesheet-rest (1)" options="-parameters" />
     </option>
   </component>
 </project>

@@ -14,12 +14,18 @@
         <option value="$PROJECT_DIR$/lesson6/pom.xml" />
         <option value="$PROJECT_DIR$/lesson7/pom.xml" />
         <option value="$PROJECT_DIR$/lesson8/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson9/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson9/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson9/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson9/timesheet-page/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson9/timesheet-rest/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/homeWork3/pom.xml" />
         <option value="$PROJECT_DIR$/homeWork5/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson9/demo/pom.xml" />
         <option value="$PROJECT_DIR$/testProgram/pom.xml" />
       </set>
     </option>
