@@ -8,12 +8,12 @@
     <file url="file://$PROJECT_DIR$/lesson6/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lesson7/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lesson8/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/lesson9/demo/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/lesson9/eureka-server/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/lesson9/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/lesson9/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/lesson9/timesheet-page/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/lesson9/timesheet-rest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson9(test)/demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson9(test)/eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson9(test)/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson9(test)/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson9(test)/timesheet-page/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson9(test)/timesheet-rest/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/testProgram/src/main/java" charset="UTF-8" />
   </component>
 </project>

@@ -19,6 +19,8 @@
         <option value="$PROJECT_DIR$/lesson9/eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/lesson9/timesheet-page/pom.xml" />
         <option value="$PROJECT_DIR$/lesson9/timesheet-rest/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson9(test)/timesheet-rest/pom.xml" />
+        <option value="$PROJECT_DIR$/lesson9(test)/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

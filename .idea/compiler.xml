@@ -7,9 +7,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="timesheet-page (1) (org.springframework.boot)" />
         <module name="lesson8" />
         <module name="lesson4" />
+        <module name="timesheet-page" />
         <module name="lesson5" />
         <module name="lesson6" />
         <module name="lesson7" />
@@ -23,7 +23,7 @@
       <module name="eureka-server (1)" target="17" />
       <module name="homeWork3" target="21" />
       <module name="lesson9" target="1.5" />
-      <module name="timesheet-page" target="17" />
+      <module name="timesheet-page (1) (org.springframework.boot)" target="17" />
       <module name="timesheet-rest (1)" target="17" />
     </bytecodeTargetLevel>
   </component>
